@@ -1,0 +1,2 @@
+# configRepo
+Config Server Repo
